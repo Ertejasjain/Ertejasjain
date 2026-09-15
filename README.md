@@ -31,7 +31,9 @@ Promoted from intern to FDE in six months · B.Tech ECE, NSUT Delhi · CodeKaze 
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 
 **Applied AI:** LLM agents · prompt engineering · evals · OCR & vision-LLM pipelines · structured extraction · human-in-the-loop design · LLM cost optimisation
+
 **Integration:** REST APIs · webhooks · JSON · email/portal ingestion · SAP
+
 **Delivery:** discovery & scoping · solution design · production rollout · load testing · log-based debugging
 
 ### Currently learning 🌱
